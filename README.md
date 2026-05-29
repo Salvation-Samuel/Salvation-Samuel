@@ -22,7 +22,7 @@ I am a results-driven DevOps Engineer with 4 years of experience specializing in
 
 ### 📈 Featured Projects
 
-* 🛸 **[Production-Grade Microservices Deployment](YOUR_REPO_LINK)**: Multi-tier microservices app orchestrated on AWS EKS with native pod scaling and zero-downtime deployment strategies.
+* 🛸 **[Production-Grade Microservices Deployment](https://github.com/Salvation-Samuel/VaultProject.git)**: Multi-tier microservices app orchestrated on AWS EKS with native pod scaling and zero-downtime deployment strategies.
 * 🏗️ **[Automated Cloud Infrastructure with Terraform](YOUR_REPO_LINK)**: Modular IaC repository spinning up secure multi-AZ VPC topologies and fully isolated private subnet networks.
 
 ---
