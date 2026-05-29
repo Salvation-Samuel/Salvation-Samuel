@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Salvation Samuel 👋 
 ### DevOps & Cloud Infrastructure Engineer | Founder of Automate With Salvation (A Wi S)
 
